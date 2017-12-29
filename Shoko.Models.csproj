@@ -23,9 +23,6 @@
     <EmbeddedResource Remove="Nancy.Rest.Annotations\**" />
     <None Remove="Nancy.Rest.Annotations\**" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="Nancy.Rest.Annotations\Nancy.Rest.Annotations.csproj" />
-  </ItemGroup>
 
 
 </Project>
