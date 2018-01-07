@@ -8,7 +8,6 @@ namespace Shoko.Models.Server
         {
         }
         public int MovieDB_FanartID { get; set; }
-        public string ImageID { get; set; }
         public int MovieId { get; set; }
         public string ImageType { get; set; }
         public string ImageSize { get; set; }

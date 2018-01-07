@@ -15,6 +15,7 @@ namespace Shoko.Models.Enums
         Trakt_Fanart = 11, // to allow for deletion
         Trakt_Episode = 12,
         Trakt_Friend = 13,
+        Max=13,
     }
 
     public enum ImageFormatEnum

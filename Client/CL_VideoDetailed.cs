@@ -16,7 +16,6 @@ namespace Shoko.Models.Client
 
         // VideoLocal
         public int VideoLocalID { get; set; }
-        public string VideoLocal_FileName { get; set; }
         public string VideoLocal_Hash { get; set; }
         public long VideoLocal_FileSize { get; set; }
         public int VideoLocal_IsWatched { get; set; }

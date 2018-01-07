@@ -2,7 +2,6 @@
 {
     public class AniDB_ReleaseGroup
     {
-        public int AniDB_ReleaseGroupID { get; set; }
         public int GroupID { get; set; }
         public int Rating { get; set; }
         public int Votes { get; set; }

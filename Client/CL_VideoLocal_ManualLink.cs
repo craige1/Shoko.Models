@@ -6,7 +6,7 @@ namespace Shoko.Models.Client
     public class CL_VideoLocal_ManualLink
     {
         public int VideoLocalID { get; set; }
-        public string FileName { get; set; }
+
         public string Hash { get; set; }
         public string CRC32 { get; set; }
         public string MD5 { get; set; }
